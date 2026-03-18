@@ -1,4 +1,8 @@
-## Hi there 👋
+$ whoami
+junior-security-analyst
+$ status
+active • learning • building
+
 
 🎓 Abgeschlossene schulische Ausbildung mit Schwerpunkt IT sowie fundierte Weiterbildungen im Bereich Cybersecurity und Systemadministration. Praktische Erfahrung entsteht vor allem durch eigene virtuelle Lab‑Umgebungen und realitätsnahe Übungsszenarien.
 
