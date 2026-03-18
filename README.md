@@ -10,11 +10,7 @@
 
 💬 Frag mich gerne zu Themen wie Netzwerke, Linux, Cybersecurity-Grundlagen oder dem Aufbau von Lab-Umgebungen
 
-🧪 Ich übe regelmäßig: Privilege Escalation, Schwachstellenanalyse (OWASP Top 10) und Netzwerk-Troubleshooting
-
 🛠️ Technologien & Tools: Linux, Windows Server, Bash, grundlegendes Python, Cisco Packet Tracer, Wireshark
-
-📚 Aktuell baue ich: Ein dokumentiertes Home Lab mit Active Directory, Firewall-Konfigurationen und Angriffssimulationen
 
 📫 Kontakt: [LinkedIn](https://www.linkedin.com/in/mario-horvat-4b7979354/)
 
