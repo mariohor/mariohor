@@ -14,11 +14,16 @@
 Linux, Windows Server, Bash, grundlegendes Python, Cisco Packet Tracer, Wireshark, virtuelle Lab‑Umgebungen
 
 📫 Kontakt: [LinkedIn](https://www.linkedin.com/in/mario-horvat-4b7979354/)
+
 🌍 Standort: Bochum, Deutschland
+
 😄 Pronomen: er/ihm
 
+
 🚀 Karriereziel: Junior IT-Security / Systemadministrator
+
 🧠 Arbeitsweise: Praxisorientiertes Lernen statt reiner Theorie
+
 🧩 Offen für: Praktika, Junior-Positionen und Möglichkeiten zur Praxiserfahrung
 
 
