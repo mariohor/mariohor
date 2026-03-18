@@ -1,6 +1,5 @@
 $ whoami
 junior-security-analyst
-
 $ status
 active • learning • building
 
