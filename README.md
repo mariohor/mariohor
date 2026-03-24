@@ -1,4 +1,4 @@
-🎓 Abgeschlossene schulische Ausbildung mit Schwerpunkt IT sowie fundierte Weiterbildungen im Bereich Cybersecurity und Systemadministration. Praktische Erfahrung entsteht vor allem durch eigene virtuelle Lab‑Umgebungen und realitätsnahe Übungsszenarien.
+🎓 Abgeschlossene schulische Ausbildung mit Schwerpunkt IT in Kroatien, ergänzt durch fundierte Weiterbildungen im Bereich Cybersecurity und Systemadministration. Praktische Erfahrung sammle ich vor allem durch den Aufbau eigener virtueller Lab‑Umgebungen sowie durch realitätsnahe Übungsszenarien.
 
 📜 Erfolgreich absolvierte CompTIA Security+, Network+, Linux+ und Pentest+ Zertifizierungen. Der Fokus liegt auf der Anwendung von Sicherheitskonzepten in praxisnahen Angriffs‑ und Verteidigungssituationen.
 
