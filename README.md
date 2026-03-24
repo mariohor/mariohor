@@ -1,4 +1,4 @@
-🎓 Abgeschlossene schulische Ausbildung mit Schwerpunkt IT in Kroatien, ergänzt durch fundierte Weiterbildungen im Bereich Cybersecurity und Systemadministration. Praktische Erfahrung sammle ich vor allem durch den Aufbau eigener virtueller Lab‑Umgebungen sowie durch realitätsnahe Übungsszenarien.
+🎓 Abgeschlossene schulische IT‑Ausbildung in Kroatien, ergänzt durch eine spezialisierte Weiterbildung bei MindRefined zum Cyber Security Expert. Praktische Erfahrung sammle ich vor allem durch eigene virtuelle Lab‑Umgebungen sowie realitätsnahe Übungsszenarien im Bereich Cybersecurity und Systemadministration.
 
 📜 Erfolgreich absolvierte CompTIA Security+, Network+, Linux+ und Pentest+ Zertifizierungen. Der Fokus liegt auf der Anwendung von Sicherheitskonzepten in praxisnahen Angriffs‑ und Verteidigungssituationen.
 
