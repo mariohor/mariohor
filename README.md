@@ -6,8 +6,6 @@
 
 🌍 Standort: Bochum, Deutschland
 
-😄 Pronomen: er/ihm
-
 🚀 Karriereziel: Junior IT-Security / Systemadministrator
 
 🧩 Offen für: Praktika, Junior-Positionen und Möglichkeiten zur Praxiserfahrung
