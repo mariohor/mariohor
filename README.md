@@ -2,25 +2,13 @@
 
 📜 Erfolgreich absolvierte CompTIA Security+, Network+, Linux+ und Pentest+ Zertifizierungen. Der Fokus liegt auf der Anwendung von Sicherheitskonzepten in praxisnahen Angriffs‑ und Verteidigungssituationen.
 
-👯 Interesse an gemeinsamen Projekten in den Bereichen IT‑Security, Systemadministration, Netzwerkaufbau und Security‑Labs.
-
-🤔 Auf der Suche nach einer Einstiegsposition im Bereich IT‑Security oder Systemadministration in Deutschland.
-
-💬 Austausch zu Themen wie Netzwerke, Linux, Cybersecurity‑Grundlagen, Windows‑Administration und dem Aufbau virtueller Lab‑Umgebungen ist jederzeit willkommen.
-
-🛠️ Technologien & Tools:
-Linux, Windows Server, Bash, grundlegendes Python, Cisco Packet Tracer, Wireshark, virtuelle Lab‑Umgebungen
-
 📫 Kontakt: [LinkedIn](https://www.linkedin.com/in/mario-horvat-4b7979354/)
 
 🌍 Standort: Bochum, Deutschland
 
 😄 Pronomen: er/ihm
 
-
 🚀 Karriereziel: Junior IT-Security / Systemadministrator
-
-🧠 Arbeitsweise: Praxisorientiertes Lernen statt reiner Theorie
 
 🧩 Offen für: Praktika, Junior-Positionen und Möglichkeiten zur Praxiserfahrung
 
